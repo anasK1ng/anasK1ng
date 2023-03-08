@@ -1,7 +1,7 @@
 
 <img align="center" width="100%" height="500px" alt="coding" src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif">
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">Junior full stack developer</h3>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anask1ng&label=Profile%20views&color=0e75b6&style=flat" alt="anask1ng" /> </p>
 
