@@ -1,5 +1,5 @@
 
-<img align="center" width="100%" height="auto" alt="coding" src="https://th.bing.com/th/id/R.c440f8b645005c702d51f16d30631784?rik=PGWRAAS9K70N9Q&pid=ImgRaw&r=0">
+<img align="center" width="100%" height="500px" alt="coding" src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif">
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center"> Junior Full Stuck Developer</h3>
 
