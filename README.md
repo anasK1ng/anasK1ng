@@ -1,7 +1,8 @@
 
+<img align="center" width="100%" height="auto" alt="coding" src="https://th.bing.com/th/id/R.c440f8b645005c702d51f16d30631784?rik=PGWRAAS9K70N9Q&pid=ImgRaw&r=0">
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center"> Junior Full Stuck Developer</h3>
-<img align="center" width="400px" alt="coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 - 🌱 I’m currently learning **ReactJs and MongoDb**
 
 - 📫 How to reach me **anas.bouinghouren@gmail.com**
